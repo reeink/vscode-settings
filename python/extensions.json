@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.debugpy",
+        "ms-pyright.pyright",
+        "charliermarsh.ruff",
+        "njqdev.vscode-python-typehint"
+    ]
+}
